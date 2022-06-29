@@ -4,4 +4,4 @@ Readme
 
 License - Much license ⚖️
 
-HappyStickMan is released under the terms of the MIT license. See [COPYING](https://github.com/dogecoin/dogecoin/blob/master/COPYING) for more information or see [opensource.org](https://opensource.org/licenses/MIT)
+HappyStickMan is released under the terms of the MIT license. See [COPYING](https://github.com/) for more information or see [opensource.org](https://opensource.org/licenses/MIT)
