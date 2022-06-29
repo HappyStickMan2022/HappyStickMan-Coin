@@ -4,4 +4,4 @@ Readme
 
 License - Much license ⚖️
 
-HappyStickMan is released under the terms of the MIT license. See [COPYING](https://github.com/) for more information or see [opensource.org](https://opensource.org/licenses/MIT)
+HappyStickMan is released under the terms of the MIT license. See [COPYING](https://github.com/HappyStickMan2022/HappyStickMan-Coin/blob/03499a393ae4c1eaa836c1a792098a53b77cffe1/LICENSE) for more information or see [opensource.org](https://opensource.org/licenses/MIT)
